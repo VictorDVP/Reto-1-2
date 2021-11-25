@@ -1,0 +1,15 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "Reto 1 - 2",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Vasquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
